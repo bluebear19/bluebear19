@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bluebear19
+- 👀 I’m interested in artificial intelligence
+- 🌱 I’m currently learning machine learning methods
+- 📫 How to reach me : ple@rheinahrcampus.de
